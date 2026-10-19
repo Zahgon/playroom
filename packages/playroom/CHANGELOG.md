@@ -1,5 +1,11 @@
 # playroom
 
+## 1.4.1
+
+### Patch Changes
+
+- [#515](https://github.com/seek-oss/playroom/pull/515) [`6d37ccf`](https://github.com/seek-oss/playroom/commit/6d37ccf20737888aef847d2d0334037279432091) Thanks [@askoufis](https://github.com/askoufis)! - Fix centering of copy link success icon
+
 ## 1.4.0
 
 ### Minor Changes
